@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assignment02.MutualExclusion/1.0.0": {
+        "runtime": {
+          "Assignment02.MutualExclusion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment02.MutualExclusion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
